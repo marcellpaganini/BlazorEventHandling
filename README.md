@@ -24,8 +24,8 @@
 - [x] General  
 - [x] Event Arguments  
 - [x] Lambda Expressions  
-- [ ] EventCallback  
-- [ ] Prevent default actions  
+- [x] EventCallback  
+- [x] Prevent default actions  
 - [ ] Stop event propagation  
 - [ ] Focus an element            
  
