@@ -26,6 +26,6 @@
 - [x] Lambda Expressions  
 - [x] EventCallback  
 - [x] Prevent default actions  
-- [ ] Stop event propagation  
-- [ ] Focus an element            
+- [x] Stop event propagation  
+- [x] Focus an element            
  
