@@ -23,7 +23,7 @@
 #### Event Handling (Blazor)  
 - [x] General  
 - [x] Event Arguments  
-- [ ] Lambda Expressions  
+- [x] Lambda Expressions  
 - [ ] EventCallback  
 - [ ] Prevent default actions  
 - [ ] Stop event propagation  
