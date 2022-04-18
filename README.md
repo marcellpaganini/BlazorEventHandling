@@ -21,7 +21,7 @@
 
 ### Programming Topics practiced to get things done  
 #### Event Handling (Blazor)  
-- [ ] General  
+- [x] General  
 - [ ] Event Arguments  
 - [ ] Lambda Expressions  
 - [ ] EventCallback  
